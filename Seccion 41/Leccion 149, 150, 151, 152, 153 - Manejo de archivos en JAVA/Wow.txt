@@ -1,0 +1,6 @@
+Mago
+Guerrero
+Chaman
+Paladin
+Cazador
+Monje
